@@ -43,5 +43,5 @@ int main(){
 
     printf("The area is %lf units^2\n", area);
 
-    return 0;
+    return 0; //test
 }
